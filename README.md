@@ -23,9 +23,7 @@ To run this project locally, you need to have PHP and SQL installed.
 
 <p align="center">
   <img width="80%" src="https://user-images.githubusercontent.com/91241984/229909669-0a27798f-ac82-4e8e-ae6a-e677d1d36b45.png" />
-  <figcaption>Desktop View</figcaption>
   <img width="18%" src="https://user-images.githubusercontent.com/91241984/229909720-05ba8111-ecbc-4c4c-8bb2-d7052d8c9c86.png" />
-  <figcaption>Mobile View</figcaption>
 </p>
 
 ## Note
