@@ -2,7 +2,7 @@
 
 <?php
 // Connect to the database
-$conn =  mysqli_connect("localhost", "gouravjangid5044", "gJGOURAV123#$%", "shortify");
+$conn =  mysqli_connect("localhost", "username", "password", "shortify");
 
 // Function to generate a random string for the shortened URL
 function generate_random_string($length = 7) {
