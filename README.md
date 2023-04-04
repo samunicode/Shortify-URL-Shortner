@@ -1,6 +1,5 @@
 # Shortify-URL-Shortner
 
-[Shortify Demo] 
 
 https://user-images.githubusercontent.com/91241984/229904864-ac801620-f089-45ba-a1eb-cc69e97a2be2.mp4
 
