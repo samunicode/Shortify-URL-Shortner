@@ -19,9 +19,6 @@ To run this project locally, you need to have PHP and SQL installed.
 5. Run the app: `php -S localhost:8000`
 6. Open your browser and go to `http://localhost:8000`
 
-## Note
-This repo contains only the front-end part of the website and the basic sql code. The back-end part is hosted on a different server and is not publicly available.
-
 ## Screenshots
 
 <p align="center">
@@ -29,6 +26,8 @@ This repo contains only the front-end part of the website and the basic sql code
   <img width="18%" src="https://user-images.githubusercontent.com/91241984/229909720-05ba8111-ecbc-4c4c-8bb2-d7052d8c9c86.png" />
 </p>
 
+## Note
+This repo contains only the front-end part of the website and the basic sql code. The back-end part is hosted on a different server and is not publicly available.
 
 ## License
 
