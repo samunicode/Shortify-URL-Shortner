@@ -1,7 +1,8 @@
 # Shortify-URL-Shortner
 
 
-https://user-images.githubusercontent.com/91241984/229904864-ac801620-f089-45ba-a1eb-cc69e97a2be2.mp4
+https://user-images.githubusercontent.com/91241984/229970695-696bdf97-2eb8-429f-a7bd-85a87a55d7b4.mp4
+
 
 
 ## About Shortify
@@ -24,6 +25,9 @@ To run this project locally, you need to have PHP and SQL installed.
 <p align="center">
   <img width="80%" src="https://user-images.githubusercontent.com/91241984/229909669-0a27798f-ac82-4e8e-ae6a-e677d1d36b45.png" />
   <img width="18%" src="https://user-images.githubusercontent.com/91241984/229909720-05ba8111-ecbc-4c4c-8bb2-d7052d8c9c86.png" />
+  <kbd>![test-image][1]</kbd>
+
+  [1]: https://user-images.githubusercontent.com/91241984/229909720-05ba8111-ecbc-4c4c-8bb2-d7052d8c9c86.png
 </p>
 
 ## Note
